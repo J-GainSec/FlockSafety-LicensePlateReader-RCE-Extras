@@ -7,8 +7,9 @@ Additionally below is a picture of one result from when GainSec checked.
 
 <img src="https://gainsec.com/wp-content/uploads/2025/09/Wigle-showing-SSIDs.png" alt="Flock Safety LPR Wigle SSIDs" width="600"/>
 
-Read the rest of the write-up HERE (TBP 09/27/25)
-And a write-up specific to the wireless RCE HERE (TBP 09/27/25)
+* Read the rest of the write-up HERE (TBP 09/27/25)
+
+* And a write-up specific to the wireless RCE HERE (TBP 09/27/25)
 
 
 ## Curl Command to query Wigle for active hotspots
